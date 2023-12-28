@@ -25,11 +25,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br><br>An Empath Teamworker and Programmer having interest in coding.</h3>
+<h3 align="left">👩‍💻  About Me <br><br>An Empath Teamworker and Programmer having interest in exploring and learning new things and getting experiences.</h3>
 
 ###
 
-<p align="left">I'm Dastagir Mulani from Pune, India<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning Machine Learning, Full stack development and NLP<br>- ⚡ In my free time I Code</p>
+<p align="left">I'm Dastagir Mulani from Pune, India<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning Machine Learning, Full stack development, cloud and NLP<br>- ⚡ In my free time I code and try to do Hands-on</p>
 
 ###
 
